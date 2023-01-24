@@ -1,2 +1,6 @@
-# dotfiles-arch
-Configuration files for my Arch.
+# Personal dotfiles for my Arch setup
+
+```sh
+$ git clone https://github.com/lanjoni/dotfiles-arch.git
+$ cp -r dotfiles-arch/* ~/.config/
+```
