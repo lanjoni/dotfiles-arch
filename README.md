@@ -1,4 +1,4 @@
-# Personal dotfiles for my Arch setup
+# Personal files for my Arch setup
 
 ```sh
 $ git clone https://github.com/lanjoni/dotfiles-arch.git
